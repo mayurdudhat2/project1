@@ -1,1 +1,4 @@
 This is a branch1 file 
+Niral is changing file to create conflict.
+Another change
+mayur is changing 
